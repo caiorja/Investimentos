@@ -27,6 +27,31 @@ habilitar o suporte ao formato PBIP (Project) nas opções de preview, quando ap
 Documentação detalhada do dashboard:
 - [dashboards/Investimentos/README.md](dashboards/Investimentos/README.md)
 
+## Visualização online
+
+Você pode visualizar o dashboard publicado diretamente no Power BI Service:
+
+- https://app.powerbi.com/view?r=eyJrIjoiYTA0NTA3YzktZjVlNC00MjAzLWJlYzEtZTBlODdiNjQ3N2FhIiwidCI6IjA5ZjRiZmNhLTY3Y2QtNGU0Zi05NjNkLWExYzk1MzEyNmMwNCJ9
+
+Observação: acesso e visibilidade dependem das configurações de compartilhamento do relatório no Power BI.
+
+## Imagens do dashboard
+
+Para ilustrar o README com screenshots, adicione arquivos `.png` ou `.jpg` em `assets/screenshots/`.
+Sugestão de nomes:
+
+- `assets/screenshots/overview.png` — visão geral
+- `assets/screenshots/pagina1.png` — primeira página/guia
+- `assets/screenshots/pagina2.png` — segunda página/guia
+
+Considere inserir as imagens com:
+
+```markdown
+![Visão geral](assets/screenshots/overview.png)
+![Página 1](assets/screenshots/pagina1.png)
+![Página 2](assets/screenshots/pagina2.png)
+```
+
 ## Boas práticas de versionamento (PBIP)
 
 - Arquivos de configuração local e cache do Power BI são ignorados pelo `.gitignore`,
@@ -55,8 +80,7 @@ serviços, bancos), valide caminhos e permissões no seu ambiente.
 
 ## Licença
 
-Licença ainda não definida. Se desejar, posso configurar uma licença (por exemplo, MIT)
-e adicionar o arquivo `LICENSE` ao repositório.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## Autor e contato
 
