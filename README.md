@@ -37,10 +37,10 @@ Observação: acesso e visibilidade dependem das configurações de compartilham
 
 ## Imagens do dashboard
 
-Imagens capturadas automaticamente do link público do Power BI:
+Imagens selecionadas (pg01 e pg02):
 
-![Visão geral (viewport)](assets/screenshots/viewport_20251108-223233.png)
-![Página inteira (overview)](assets/screenshots/overview_20251108-223233.png)
+![Resumo](assets/screenshots/pg01.jpg)
+![Simulador](assets/screenshots/pg02.jpg)
 
 ## Boas práticas de versionamento (PBIP)
 

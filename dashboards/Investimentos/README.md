@@ -19,10 +19,10 @@ Veja o dashboard publicado no Power BI Service:
 
 ## Imagens
 
-Imagens capturadas automaticamente do link público do Power BI:
+Imagens selecionadas (pg01 e pg02):
 
-![Visão geral (viewport)](../../assets/screenshots/viewport_20251108-223233.png)
-![Página inteira (overview)](../../assets/screenshots/overview_20251108-223233.png)
+![Resumo](../../assets/screenshots/pg01.jpg)
+![Simulador](../../assets/screenshots/pg02.jpg)
 
 Gerado em 2025-11-08T19:14:06.111353
 Autor: Caio Araujo (caiorjacaiorja@gmail.com)
