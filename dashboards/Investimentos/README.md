@@ -24,14 +24,5 @@ Imagens capturadas automaticamente do link público do Power BI:
 ![Visão geral (viewport)](../../assets/screenshots/viewport_20251108-223233.png)
 ![Página inteira (overview)](../../assets/screenshots/overview_20251108-223233.png)
 
-Para incluir screenshots nesta documentação, adicione arquivos em `assets/screenshots/` na raiz do repositório.
-Exemplo de inserção:
-
-```markdown
-![Visão geral](../../assets/screenshots/overview.png)
-![Página 1](../../assets/screenshots/pagina1.png)
-![Página 2](../../assets/screenshots/pagina2.png)
-```
-
 Gerado em 2025-11-08T19:14:06.111353
 Autor: Caio Araujo (caiorjacaiorja@gmail.com)
