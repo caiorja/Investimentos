@@ -19,6 +19,11 @@ Veja o dashboard publicado no Power BI Service:
 
 ## Imagens
 
+Imagens capturadas automaticamente do link público do Power BI:
+
+![Visão geral (viewport)](../../assets/screenshots/viewport_20251108-223233.png)
+![Página inteira (overview)](../../assets/screenshots/overview_20251108-223233.png)
+
 Para incluir screenshots nesta documentação, adicione arquivos em `assets/screenshots/` na raiz do repositório.
 Exemplo de inserção:
 
