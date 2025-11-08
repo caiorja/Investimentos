@@ -1,18 +1,7 @@
 {
-    "generated_at": "2025-11-08T19:13:31.309966",
-    "source_dir": "C:\\Users\\CaioAraujo\\Documents\\Trae\\Projetos PowerBI",
+    "generated_at": "2025-11-08T19:14:06.112610",
+    "source_dir": "C:\\Users\\CaioAraujo\\Documents\\Trae\\Projetos PowerBI\\Investimentos",
     "dashboards": [
-        {
-            "stem": "Customer Churn Prediction",
-            "meta": {
-                "reportName": "Customer Churn Prediction",
-                "pages": [],
-                "dataSources": [],
-                "lastModified": "2025-11-08T17:51:39.703441",
-                "sha1": "f46d7394e421e248751b85359660370ac1d4f645",
-                "size_bytes": 304
-            }
-        },
         {
             "stem": "Investimentos",
             "meta": {
